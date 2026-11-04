@@ -7,6 +7,7 @@ from math import ceil, sqrt
 from statistics import fmean, median
 
 from game import Board, sample_games
+from plotting import save_distribution_plot
 
 
 BOARDS = {
@@ -58,6 +59,7 @@ def main() -> None:
     parser.add_argument("--seed", type=int, default=42)
     parser.add_argument("--bin-width", type=int, default=2)
     parser.add_argument("--csv", help="optional path for raw roll counts")
+    parser.add_argument("--plot", help="save an SVG comparison plot at this path")
     args = parser.parse_args()
     if args.games < 1:
         parser.error("--games must be positive")
@@ -83,6 +85,14 @@ def main() -> None:
             writer.writerow(["board", "rolls_to_win"])
             for name, values in samples.items():
                 writer.writerows((name, value) for value in values)
+
+    if args.plot:
+        path = save_distribution_plot(
+            samples,
+            args.plot,
+            subtitle=f"{args.games:,} games per board · seed {args.seed} · 30-square board",
+        )
+        print(f"\nSaved plot: {path}")
 
 
 if __name__ == "__main__":

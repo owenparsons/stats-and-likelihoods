@@ -1,0 +1,114 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1120 790" role="img" aria-label="Distribution of rolls to finish">
+<rect width="1120" height="790" fill="#fafaf9"/>
+<text x="70" y="62" class="title">Rolls to finish</text>
+<text x="70" y="90" class="subtitle">50,000 games per board · seed 42 · 30-square board</text>
+<text x="70" y="169" class="panel-title">Share finishing on each roll</text>
+<text x="70" y="469" class="panel-title">Chance of still playing after each roll</text>
+<style>text{font-family:Arial,Helvetica,sans-serif;fill:#1e293b}.title{font-size:32px;font-weight:700}.subtitle{font-size:15px;fill:#64748b}.panel-title{font-size:18px;font-weight:700}.tick{font-size:13px;fill:#64748b}.legend{font-size:15px;font-weight:600}</style>
+<line x1="70" y1="125" x2="96" y2="125" stroke="#334155" stroke-width="4"/>
+<text x="105" y="130" class="legend">empty</text>
+<line x1="410" y1="125" x2="436" y2="125" stroke="#0f766e" stroke-width="4"/>
+<text x="445" y="130" class="legend">early ladder (3→20)</text>
+<line x1="750" y1="125" x2="776" y2="125" stroke="#c2410c" stroke-width="4"/>
+<text x="785" y="130" class="legend">late snake (25→5)</text>
+<line x1="100" y1="390.0" x2="1060" y2="390.0" stroke="#e2e8f0"/>
+<text x="88" y="395.0" text-anchor="end" class="tick">0%</text>
+<line x1="100" y1="323.3" x2="1060" y2="323.3" stroke="#e2e8f0"/>
+<text x="88" y="328.3" text-anchor="end" class="tick">10%</text>
+<line x1="100" y1="256.7" x2="1060" y2="256.7" stroke="#e2e8f0"/>
+<text x="88" y="261.7" text-anchor="end" class="tick">20%</text>
+<line x1="100" y1="190.0" x2="1060" y2="190.0" stroke="#e2e8f0"/>
+<text x="88" y="195.0" text-anchor="end" class="tick">30%</text>
+<line x1="100.0" y1="390" x2="100.0" y2="396" stroke="#94a3b8"/>
+<text x="100.0" y="415" text-anchor="middle" class="tick">0</text>
+<line x1="220.0" y1="390" x2="220.0" y2="396" stroke="#94a3b8"/>
+<text x="220.0" y="415" text-anchor="middle" class="tick">5</text>
+<line x1="340.0" y1="390" x2="340.0" y2="396" stroke="#94a3b8"/>
+<text x="340.0" y="415" text-anchor="middle" class="tick">10</text>
+<line x1="460.0" y1="390" x2="460.0" y2="396" stroke="#94a3b8"/>
+<text x="460.0" y="415" text-anchor="middle" class="tick">15</text>
+<line x1="580.0" y1="390" x2="580.0" y2="396" stroke="#94a3b8"/>
+<text x="580.0" y="415" text-anchor="middle" class="tick">20</text>
+<line x1="700.0" y1="390" x2="700.0" y2="396" stroke="#94a3b8"/>
+<text x="700.0" y="415" text-anchor="middle" class="tick">25</text>
+<line x1="820.0" y1="390" x2="820.0" y2="396" stroke="#94a3b8"/>
+<text x="820.0" y="415" text-anchor="middle" class="tick">30</text>
+<line x1="940.0" y1="390" x2="940.0" y2="396" stroke="#94a3b8"/>
+<text x="940.0" y="415" text-anchor="middle" class="tick">35</text>
+<line x1="1060.0" y1="390" x2="1060.0" y2="396" stroke="#94a3b8"/>
+<text x="1060.0" y="415" text-anchor="middle" class="tick">40</text>
+<line x1="100" y1="690.0" x2="1060" y2="690.0" stroke="#e2e8f0"/>
+<text x="88" y="695.0" text-anchor="end" class="tick">0%</text>
+<line x1="100" y1="640.0" x2="1060" y2="640.0" stroke="#e2e8f0"/>
+<text x="88" y="645.0" text-anchor="end" class="tick">25%</text>
+<line x1="100" y1="590.0" x2="1060" y2="590.0" stroke="#e2e8f0"/>
+<text x="88" y="595.0" text-anchor="end" class="tick">50%</text>
+<line x1="100" y1="540.0" x2="1060" y2="540.0" stroke="#e2e8f0"/>
+<text x="88" y="545.0" text-anchor="end" class="tick">75%</text>
+<line x1="100" y1="490.0" x2="1060" y2="490.0" stroke="#e2e8f0"/>
+<text x="88" y="495.0" text-anchor="end" class="tick">100%</text>
+<line x1="100.0" y1="690" x2="100.0" y2="696" stroke="#94a3b8"/>
+<text x="100.0" y="715" text-anchor="middle" class="tick">0</text>
+<line x1="220.0" y1="690" x2="220.0" y2="696" stroke="#94a3b8"/>
+<text x="220.0" y="715" text-anchor="middle" class="tick">5</text>
+<line x1="340.0" y1="690" x2="340.0" y2="696" stroke="#94a3b8"/>
+<text x="340.0" y="715" text-anchor="middle" class="tick">10</text>
+<line x1="460.0" y1="690" x2="460.0" y2="696" stroke="#94a3b8"/>
+<text x="460.0" y="715" text-anchor="middle" class="tick">15</text>
+<line x1="580.0" y1="690" x2="580.0" y2="696" stroke="#94a3b8"/>
+<text x="580.0" y="715" text-anchor="middle" class="tick">20</text>
+<line x1="700.0" y1="690" x2="700.0" y2="696" stroke="#94a3b8"/>
+<text x="700.0" y="715" text-anchor="middle" class="tick">25</text>
+<line x1="820.0" y1="690" x2="820.0" y2="696" stroke="#94a3b8"/>
+<text x="820.0" y="715" text-anchor="middle" class="tick">30</text>
+<line x1="940.0" y1="690" x2="940.0" y2="696" stroke="#94a3b8"/>
+<text x="940.0" y="715" text-anchor="middle" class="tick">35</text>
+<line x1="1060.0" y1="690" x2="1060.0" y2="696" stroke="#94a3b8"/>
+<text x="1060.0" y="715" text-anchor="middle" class="tick">40</text>
+<polyline points="100.0,390.0 124.0,390.0 148.0,390.0 172.0,390.0 196.0,390.0 220.0,389.9 244.0,376.6 268.0,313.5 292.0,226.0 316.0,209.3 340.0,262.6 364.0,323.2 388.0,362.9 412.0,381.9 436.0,387.9 460.0,389.6 484.0,389.9 508.0,390.0 532.0,390.0 556.0,390.0 580.0,390.0 604.0,390.0 628.0,390.0 652.0,390.0 676.0,390.0 700.0,390.0 724.0,390.0 748.0,390.0 772.0,390.0 796.0,390.0 820.0,390.0 844.0,390.0 868.0,390.0 892.0,390.0 916.0,390.0 940.0,390.0 964.0,390.0 988.0,390.0 1012.0,390.0 1036.0,390.0 1060.0,390.0" fill="none" stroke="#334155" stroke-width="2.8" stroke-linejoin="round"/>
+<circle cx="244.0" cy="376.6" r="2.5" fill="#334155"/>
+<circle cx="268.0" cy="313.5" r="2.5" fill="#334155"/>
+<circle cx="292.0" cy="226.0" r="2.5" fill="#334155"/>
+<circle cx="316.0" cy="209.3" r="2.5" fill="#334155"/>
+<circle cx="340.0" cy="262.6" r="2.5" fill="#334155"/>
+<circle cx="364.0" cy="323.2" r="2.5" fill="#334155"/>
+<circle cx="388.0" cy="362.9" r="2.5" fill="#334155"/>
+<circle cx="412.0" cy="381.9" r="2.5" fill="#334155"/>
+<path d="M100.0,490.0 H124.0V490.0 H148.0V490.0 H172.0V490.0 H196.0V490.0 H220.0V490.0 H244.0V494.1 H268.0V517.0 H292.0V566.2 H316.0V620.4 H340.0V658.6 H364.0V678.7 H388.0V686.8 H412.0V689.2 H436.0V689.9 H460.0V690.0 H484.0V690.0 H508.0V690.0 H532.0V690.0 H556.0V690.0 H580.0V690.0 H604.0V690.0 H628.0V690.0 H652.0V690.0 H676.0V690.0 H700.0V690.0 H724.0V690.0 H748.0V690.0 H772.0V690.0 H796.0V690.0 H820.0V690.0 H844.0V690.0 H868.0V690.0 H892.0V690.0 H916.0V690.0 H940.0V690.0 H964.0V690.0 H988.0V690.0 H1012.0V690.0 H1036.0V690.0 H1060.0V690.0" fill="none" stroke="#334155" stroke-width="2.8" stroke-linejoin="round"/>
+<polyline points="100.0,390.0 124.0,390.0 148.0,390.0 172.0,372.0 196.0,333.0 220.0,342.5 244.0,356.3 268.0,317.0 292.0,255.9 316.0,250.2 340.0,296.1 364.0,344.0 388.0,372.9 412.0,385.0 436.0,388.7 460.0,389.8 484.0,390.0 508.0,390.0 532.0,390.0 556.0,390.0 580.0,390.0 604.0,390.0 628.0,390.0 652.0,390.0 676.0,390.0 700.0,390.0 724.0,390.0 748.0,390.0 772.0,390.0 796.0,390.0 820.0,390.0 844.0,390.0 868.0,390.0 892.0,390.0 916.0,390.0 940.0,390.0 964.0,390.0 988.0,390.0 1012.0,390.0 1036.0,390.0 1060.0,390.0" fill="none" stroke="#0f766e" stroke-width="2.8" stroke-linejoin="round"/>
+<circle cx="172.0" cy="372.0" r="2.5" fill="#0f766e"/>
+<circle cx="196.0" cy="333.0" r="2.5" fill="#0f766e"/>
+<circle cx="220.0" cy="342.5" r="2.5" fill="#0f766e"/>
+<circle cx="244.0" cy="356.3" r="2.5" fill="#0f766e"/>
+<circle cx="268.0" cy="317.0" r="2.5" fill="#0f766e"/>
+<circle cx="292.0" cy="255.9" r="2.5" fill="#0f766e"/>
+<circle cx="316.0" cy="250.2" r="2.5" fill="#0f766e"/>
+<circle cx="340.0" cy="296.1" r="2.5" fill="#0f766e"/>
+<circle cx="364.0" cy="344.0" r="2.5" fill="#0f766e"/>
+<circle cx="388.0" cy="372.9" r="2.5" fill="#0f766e"/>
+<circle cx="412.0" cy="385.0" r="2.5" fill="#0f766e"/>
+<path d="M100.0,490.0 H124.0V490.0 H148.0V490.0 H172.0V495.4 H196.0V512.5 H220.0V526.7 H244.0V536.9 H268.0V558.8 H292.0V599.0 H316.0V640.9 H340.0V669.1 H364.0V682.9 H388.0V688.0 H412.0V689.5 H436.0V689.9 H460.0V690.0 H484.0V690.0 H508.0V690.0 H532.0V690.0 H556.0V690.0 H580.0V690.0 H604.0V690.0 H628.0V690.0 H652.0V690.0 H676.0V690.0 H700.0V690.0 H724.0V690.0 H748.0V690.0 H772.0V690.0 H796.0V690.0 H820.0V690.0 H844.0V690.0 H868.0V690.0 H892.0V690.0 H916.0V690.0 H940.0V690.0 H964.0V690.0 H988.0V690.0 H1012.0V690.0 H1036.0V690.0 H1060.0V690.0" fill="none" stroke="#0f766e" stroke-width="2.8" stroke-linejoin="round"/>
+<polyline points="100.0,390.0 124.0,390.0 148.0,390.0 172.0,390.0 196.0,390.0 220.0,389.9 244.0,380.6 268.0,330.5 292.0,268.6 316.0,261.6 340.0,300.2 364.0,343.2 388.0,364.6 412.0,365.0 436.0,361.6 460.0,361.3 484.0,367.3 508.0,374.5 532.0,379.2 556.0,381.5 580.0,381.8 604.0,382.4 628.0,383.7 652.0,385.2 676.0,386.4 700.0,387.3 724.0,387.7 748.0,387.9 772.0,388.2 796.0,388.7 820.0,388.9 844.0,389.0 868.0,389.3 892.0,389.3 916.0,389.7 940.0,389.6 964.0,389.7 988.0,389.7 1012.0,389.9 1036.0,389.9 1060.0,389.9" fill="none" stroke="#c2410c" stroke-width="2.8" stroke-linejoin="round"/>
+<circle cx="244.0" cy="380.6" r="2.5" fill="#c2410c"/>
+<circle cx="268.0" cy="330.5" r="2.5" fill="#c2410c"/>
+<circle cx="292.0" cy="268.6" r="2.5" fill="#c2410c"/>
+<circle cx="316.0" cy="261.6" r="2.5" fill="#c2410c"/>
+<circle cx="340.0" cy="300.2" r="2.5" fill="#c2410c"/>
+<circle cx="364.0" cy="343.2" r="2.5" fill="#c2410c"/>
+<circle cx="388.0" cy="364.6" r="2.5" fill="#c2410c"/>
+<circle cx="412.0" cy="365.0" r="2.5" fill="#c2410c"/>
+<circle cx="436.0" cy="361.6" r="2.5" fill="#c2410c"/>
+<circle cx="460.0" cy="361.3" r="2.5" fill="#c2410c"/>
+<circle cx="484.0" cy="367.3" r="2.5" fill="#c2410c"/>
+<circle cx="508.0" cy="374.5" r="2.5" fill="#c2410c"/>
+<circle cx="532.0" cy="379.2" r="2.5" fill="#c2410c"/>
+<circle cx="556.0" cy="381.5" r="2.5" fill="#c2410c"/>
+<circle cx="580.0" cy="381.8" r="2.5" fill="#c2410c"/>
+<circle cx="604.0" cy="382.4" r="2.5" fill="#c2410c"/>
+<circle cx="628.0" cy="383.7" r="2.5" fill="#c2410c"/>
+<circle cx="652.0" cy="385.2" r="2.5" fill="#c2410c"/>
+<circle cx="676.0" cy="386.4" r="2.5" fill="#c2410c"/>
+<path d="M100.0,490.0 H124.0V490.0 H148.0V490.0 H172.0V490.0 H196.0V490.0 H220.0V490.0 H244.0V492.8 H268.0V510.7 H292.0V547.1 H316.0V585.6 H340.0V612.6 H364.0V626.6 H388.0V634.2 H412.0V641.8 H436.0V650.3 H460.0V658.9 H484.0V665.7 H508.0V670.3 H532.0V673.6 H556.0V676.1 H580.0V678.6 H604.0V680.8 H628.0V682.7 H652.0V684.2 H676.0V685.3 H700.0V686.1 H724.0V686.8 H748.0V687.4 H772.0V688.0 H796.0V688.4 H820.0V688.7 H844.0V689.0 H868.0V689.2 H892.0V689.4 H916.0V689.5 H940.0V689.6 H964.0V689.7 H988.0V689.8 H1012.0V689.8 H1036.0V689.8 H1060.0V689.9" fill="none" stroke="#c2410c" stroke-width="2.8" stroke-linejoin="round"/>
+<text x="580" y="750" text-anchor="middle" class="tick">Rolls</text>
+<text x="1060" y="777" text-anchor="end" class="tick">Games beyond 40 rolls appear in the lower chart at 40.</text>
+</svg>
